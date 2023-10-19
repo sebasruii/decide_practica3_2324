@@ -1,6 +1,8 @@
 EJ1
 EJ2
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/a178a7bd1bc34b8e9b4b435b6fafec9d)](https://app.codacy.com/gh/sebasruii/decide_practica3_2324/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_coverage)
+
 Plataforma voto electrónico educativa
 =====================================
 
